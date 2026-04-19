@@ -9,9 +9,10 @@ The goal is to create a clear **Cliff Notes–style companion** that tracks:
 
 * chapter events
 * character motivations and perspectives
-* clues revealed to the reader
+* clues revealed through character interpretation
 * unresolved narrative questions
 * the progression of the story’s central mysteries
+* the historical ideas and themes embedded in the story
 
 The project is designed so that summaries remain **consistent across all chapters** and so that the evolving mystery of the story can be tracked systematically.
 
@@ -20,11 +21,11 @@ The project is designed so that summaries remain **consistent across all chapter
 # Repository Structure
 
 vol1/
-├── README.md
-├── chapters/
-├── matrices/
-├── project_docs/
-└── templates/
+├── README.md  
+├── chapters/  
+├── matrices/  
+├── project_docs/  
+└── templates/  
 
 ## chapters/
 
@@ -32,9 +33,9 @@ Contains one Markdown file per chapter.
 
 Example:
 
-chapters/ch01.md
-chapters/ch02.md
-chapters/ch03.md
+chapters/ch01.md  
+chapters/ch02.md  
+chapters/ch03.md  
 
 Each chapter file follows the same structure so that summaries remain consistent across the entire book.
 
@@ -48,8 +49,8 @@ Each matrix covers approximately **5–6 chapters** and lists major mystery thre
 
 Example files:
 
-breadcrumb_01-06.md
-breadcrumb_07-12.md
+breadcrumb_01-06.md  
+breadcrumb_07-12.md  
 
 ---
 
@@ -61,8 +62,8 @@ These ensure consistent formatting throughout the project.
 
 Example files:
 
-chapter_template.md
-breadcrumb_template.md
+chapter_template.md  
+breadcrumb_template.md  
 
 ---
 
@@ -72,13 +73,13 @@ Supporting documentation describing the methodology and structure of the project
 
 Example:
 
-project_structure.md
+project_structure.md  
 
 ---
 
 # Chapter Summary Structure
 
-Each chapter summary contains four sections.
+Each chapter summary contains **four sections**.
 
 ## Plot Summary
 
@@ -105,23 +106,13 @@ Presented as a table.
 | Max  |            |                         |
 | Tela |            |                         |
 
-This section emphasizes **how each character interprets the situation**, not just their personality traits.
+This section emphasizes:
 
----
+* how each character interprets the situation
+* how their motivations influence their reactions
+* what the characters begin to **learn about themselves**, their abilities, or their values
 
-## Reader Revelation Device
-
-Identifies clues the author provides to the reader that may not yet be fully understood by the characters.
-
-Each section begins with:
-
-New Clues Introduced
-
-* clue 1
-* clue 2
-* clue 3
-
-followed by a short explanation of their narrative significance.
+When appropriate, this section also highlights moments where the **reader may recognize clues or implications that the characters do not yet fully understand**. These insights are captured through the characters’ observations, dialogue, or reactions.
 
 ---
 
@@ -130,6 +121,21 @@ followed by a short explanation of their narrative significance.
 Lists the important unresolved questions raised by the chapter.
 
 These questions represent the narrative tension driving the story forward.
+
+---
+
+## Historical Themes and Details
+
+Historical fiction often embeds meaningful historical ideas, references, and themes within the narrative.
+
+This section captures:
+
+* historical facts or events referenced in the chapter
+* historical practices, technology, or cultural norms depicted in the story
+* ideas about American history that the author appears to emphasize
+* moments designed to deepen the reader’s appreciation of the historical setting
+
+The goal is to document **how the novel uses narrative to illuminate historical ideas and themes**.
 
 ---
 
@@ -162,7 +168,8 @@ The project aims to produce a structured companion that:
 * tracks character motivations and interpretations
 * documents the clues that build the mystery
 * highlights unanswered questions
-* reveals the architecture of the narrative
+* captures the historical ideas embedded in the narrative
+* reveals the architecture of the story’s mystery
 
 The result should function both as a **study guide** and as a **structural analysis of the novel**.
 
