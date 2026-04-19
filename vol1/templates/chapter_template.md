@@ -1,59 +1,46 @@
-# Chapter XX
+# Chapter 5
 
 ## Plot Summary
 
-Write a concise chronological summary of the chapter’s events.
+---
+### Character Perspectives
+**Kep**  
+**What W Learn**   
+**Understanding of Events.** 
 
-Guidelines:
+**TJ**  
+**What We Learn:**   
+**Understanding of Events.** 
 
-* Focus on events that advance the story.
-* Avoid minor details unless they introduce new information.
-* Maintain clarity and brevity.
+**Max**  
+**Mhat We Learn:**   
+**Understanding of Events.** 
 
-Target length: approximately 120–180 words.
+**Tela**  
+**What We Learn:**   
+**Understanding of Events.** 
+
+**Minor Characters**
+
+* **Ramsey** — Shows interest in the crowd and in the competition.
+* **Barbara** — Kep's mother, who we learn is an orphan raised by nuns.
+---
+### Historical Themes and Details
+**Loss of Modern Conveniences.** The camp emphasizes...
+
+**Infantry Roles.** Revolutionary War units relied on specialized duties such as drummers....
 
 ---
-
-## Character Perspectives
-
-| Name | Motivation | Understanding of Events |
-| ---- | ---------- | ----------------------- |
-| Kep  |            |                         |
-| TJ   |            |                         |
-| Max  |            |                         |
-| Tela |            |                         |
-
-Guidelines:
-
-* Emphasize how each character interprets events in this chapter.
-* Track how their understanding evolves over time.
-* Avoid repeating static personality descriptions from earlier chapters.
-
----
-
-## Reader Revelation Device
+### Reader Revelation Device
 
 **New Clues Introduced**
 
-*
-*
-*
-
-Explain how these clues change what the reader understands about the story’s deeper mystery.
-Focus on information that the reader may grasp before the characters do.
-
-Target length: approximately 80–140 words.
+* A massive underground scientific facility exists beneath Fort Liberty.
+* The facility includes infrastructure large enough for a train-sized shuttle system.
 
 ---
 
-## Emerging Questions
+### Emerging Questions
 
-List the important unresolved questions raised by this chapter.
-
-Examples:
-
-*
-*
-*
-
-These questions represent the narrative tension that moves the story forward.
+* Is the claim of time travel genuine or part of an elaborate performance?
+* Who kidnapped Paul Revere and William Dawes?
